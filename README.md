@@ -1,5 +1,8 @@
 # EulerLab
 
+<!-- site-screenshot: docs/screenshot.jpg -->
+![Screenshot of EulerLab](docs/screenshot.jpg)
+
 A learning companion for mathematics, starting with **differential equations**.
 
 **Live site:** https://mendus59.github.io/EulerLab/
